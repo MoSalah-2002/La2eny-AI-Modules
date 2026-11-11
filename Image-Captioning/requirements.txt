@@ -1,0 +1,4 @@
+transformers==4.37.2
+accelerate==0.25.0
+bitsandbytes==0.41.3
+Pillow>=10.0.0
